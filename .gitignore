@@ -1,0 +1,10 @@
+# goenv
+.go-version
+
+# build
+bin/
+
+# coverage
+coverage.out
+
+dist/
