@@ -10,3 +10,7 @@ Currently supports cookies from:
 ## Usage
 
 `cookies "cookie_to_decrypt"`
+
+## Credits
+
+- Decoding code for Flask cookies from [octopart/go-itsdangerous](https://github.com/octopart/go-itsdangerous), under [MIT licence](https://github.com/octopart/go-itsdangerous/blob/master/LICENSE)
